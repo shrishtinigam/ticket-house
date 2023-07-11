@@ -2,7 +2,7 @@
 An E-Commerce Web Application with Microservices and Event-Based Architecture
 
 ### Technologies Used
-Node.js, Express, Typescript for backend of the microservices
+Node.js, Express, Typescript for backend of the microservices <br>
 React, Next.js for minimalistic front-end and server-side rendering
 NATS for event-bus architecture
 Docker, Kubernetes for deployment
